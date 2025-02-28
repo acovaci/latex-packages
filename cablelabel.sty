@@ -1,0 +1,23 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{cablelabel}[2025/02/27 v0.1 Cable Label Package]
+
+% Required packages
+\RequirePackage{mdframed}
+
+\newlength{\labelpadding}
+\setlength{\labelpadding}{5mm}
+
+\newcommand{\frontlabel}[2]{
+  \begin{mdframed}[
+    innerleftmargin=\labelpadding,
+    innerrightmargin=\labelpadding,
+    innertopmargin=\labelpadding,
+    innerbottommargin=\labelpadding,
+    linewidth=1pt,
+    linecolor=black,
+  ]
+    \textbf{#1}
+  \end{mdframed}
+}
+
+\endinput

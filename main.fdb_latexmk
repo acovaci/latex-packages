@@ -1,0 +1,18 @@
+# Fdb version 4
+["latex"] 1740733790.6617 "main.tex" "main.dvi" "main" 1740733797.25918 2
+  "/nix/store/34yrlmmcdhchhslxfimilsqzasawgdpm-texlive-2023-env/share/texmf-var/web2c/pdftex/latex.fmt" 1 8021386 6845c565358bdd4fc188f1aeb577ebef ""
+  "/nix/store/34yrlmmcdhchhslxfimilsqzasawgdpm-texlive-2023-env/share/texmf-var/web2c/texmf.cnf" 1 42643 ee72185d7287e1e62845aa6eb41e2eb6 ""
+  "/nix/store/laf1dbq695ji8z5hsk70jsfjmrzc1nri-texlive-2023-env-texmfdist/tex/generic/iftex/iftex.sty" 1 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "/nix/store/laf1dbq695ji8z5hsk70jsfjmrzc1nri-texlive-2023-env-texmfdist/tex/generic/iftex/ifvtex.sty" 1 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "/nix/store/laf1dbq695ji8z5hsk70jsfjmrzc1nri-texlive-2023-env-texmfdist/tex/latex/base/article.cls" 1 20144 147463a6a579f4597269ef9565205cfe ""
+  "/nix/store/laf1dbq695ji8z5hsk70jsfjmrzc1nri-texlive-2023-env-texmfdist/tex/latex/base/size10.clo" 1 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/nix/store/laf1dbq695ji8z5hsk70jsfjmrzc1nri-texlive-2023-env-texmfdist/tex/latex/geometry/geometry.sty" 1 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "/nix/store/laf1dbq695ji8z5hsk70jsfjmrzc1nri-texlive-2023-env-texmfdist/tex/latex/graphics/keyval.sty" 1 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "main.aux" 1740733790.65975 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "main.tex" 1740733664.66794 218 34dc679590399ac895d95398ded93247 ""
+  "mdframed.sty" 0 -1 0 ""
+  (generated)
+  "main.aux"
+  "main.dvi"
+  "main.log"
+  (rewritten before read)
