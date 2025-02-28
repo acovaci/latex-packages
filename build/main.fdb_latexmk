@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740734884.78668 "/home/doggobit/Code/label-tex/main.tex" "build/main.pdf" "main" 1740734885.61595 2
-  "/home/doggobit/Code/label-tex/main.tex" 1740734883.38632 334 93cbe745bcff158aeeb26ba17a39c999 ""
+["pdflatex"] 1740735644.04946 "/home/doggobit/Code/label-tex/main.tex" "build/main.pdf" "main" 1740735644.74315 2
+  "/home/doggobit/Code/label-tex/main.tex" 1740735643.52278 333 ccdfc8e30b6a5575e585b542752d7414 ""
   "/nix/store/51clyzbzx3mi0ai2gbv8chrh9ns0bdad-texlive-2023-env/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5467731 eeb3c34a9500f340cb99404f67ce3dd5 ""
   "/nix/store/51clyzbzx3mi0ai2gbv8chrh9ns0bdad-texlive-2023-env/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 8221909 0e93b5b4368e890124ec36b52586c3be ""
   "/nix/store/51clyzbzx3mi0ai2gbv8chrh9ns0bdad-texlive-2023-env/share/texmf-var/web2c/texmf.cnf" 1 42643 2e0b257590b55041df408cc9cbae3690 ""
@@ -37,9 +37,9 @@
   "/nix/store/ahqlhcr0qzd91jmi10j8dpflc9i65yrk-texlive-2023-env-texmfdist/tex/latex/tools/multicol.sty" 1 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "/nix/store/ahqlhcr0qzd91jmi10j8dpflc9i65yrk-texlive-2023-env-texmfdist/tex/latex/zref/zref-abspage.sty" 1 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "/nix/store/ahqlhcr0qzd91jmi10j8dpflc9i65yrk-texlive-2023-env-texmfdist/tex/latex/zref/zref-base.sty" 1 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "build/main.aux" 1740734885.49439 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
-  "cablelabel.sty" 1740734797.66219 477 c38bc98651c67ac6505cb0ff8be910e5 ""
-  "main.tex" 1740734883.38632 334 93cbe745bcff158aeeb26ba17a39c999 ""
+  "build/main.aux" 1740735644.63976 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
+  "cablelabel.sty" 1740735507.25192 477 c38bc98651c67ac6505cb0ff8be910e5 ""
+  "main.tex" 1740735643.52278 333 ccdfc8e30b6a5575e585b542752d7414 ""
   (generated)
   "build/main.aux"
   "build/main.log"
